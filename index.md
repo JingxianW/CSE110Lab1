@@ -1,6 +1,5 @@
-section links
- 
-# Jasmine's User Page 
+
+ # Jasmine's User Page 
  
 ### Who am I ???
 > ~~I'm a lazy person with nothing excellent but beauty and wisdom.~~
@@ -21,7 +20,9 @@ Things I like to do
 - staying at home
 - playing mobile games
 - thinking about future
- 
+  
+
+### Then My Pet!!!
 I have a really lovely dog, her name is Riki.
 ![Here is she](dog.jpg)
  
@@ -34,13 +35,15 @@ I am
 ```
 patient
 good at thinking
-**However** not good at communication
+However not good at communication
 ```
  
 Fields I'm interested in
-- Software Engineering
-- UI/UX Design
-- Computer Graphic
+1. Software Engineering
+2. UI/UX Design
+3. Computer Graphic
+
+*(The number is my interested level)*
  
 Besides class project, the only project I did is right [here](https://github.com/JingxianW/WeatherAppProject).
  
@@ -51,6 +54,8 @@ My plan to be a better programmer
   - In class project
   - Outside class project
 - [ ] Learn communication and teamwork skill
+
+[In the end, want to see my dog again?](#my-pet)
  
  
 
