@@ -55,7 +55,7 @@ My plan to be a better programmer
   - Outside class project
 - [ ] Learn communication and teamwork skill
 
-[In the end, want to see my dog again?](#my-pet)
+[In the end, want to see my dog again?](#then-my-pet)
  
  
 
